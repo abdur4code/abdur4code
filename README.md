@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on @github
-- 📫 How to reach me @abdur4code on Twitter
+- 📫 How to reach me @shehensa143 on Instagram
 
 <!---
 abdur4code/abdur4code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
