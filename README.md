@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdur4code
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning JAVA Full-Stack
 - 💞️ I’m looking to collaborate on @github
 
 <!---
